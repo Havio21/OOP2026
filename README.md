@@ -1,2 +1,2 @@
-# OOP2026
-Olio-Ohjelmoinnin C++ tehtävät 
+# OOP
+Olio-Ohjelmoinnin C++ tehtävät
